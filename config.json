@@ -1,0 +1,9 @@
+{
+  "snake_logic_weight": 7.0,
+  "empty_weight": 1.0,
+  "merge_weight": 2.0,
+  "corner_weight": 0.5,
+  "search_depth": 5,
+  "time_limit": 1.7,
+  "max_search_depth": 5
+}
